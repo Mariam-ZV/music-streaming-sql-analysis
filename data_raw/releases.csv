@@ -1,0 +1,300 @@
+release_id,release_title,artist_id,label_id,release_date,release_country,release_type
+1,Release 0001,1,2,2009-06-25,United Kingdom,Single
+2,Release 0002,1,2,2014-10-04,Japan,Album
+3,Release 0003,1,6,2011-05-05,United States,Album
+4,Release 0004,2,9,2004-03-15,Australia,Single
+5,Release 0005,2,1,2014-11-17,Nigeria,EP
+6,Release 0006,2,3,2004-11-04,France,Album
+7,Release 0007,3,10,2023-05-10,Germany,EP
+8,Release 0008,4,5,2023-11-21,Japan,Single
+9,Release 0009,4,7,2024-01-03,France,Album
+10,Release 0010,4,3,2022-06-25,Nigeria,Single
+11,Release 0011,5,7,2023-08-18,Japan,Album
+12,Release 0012,5,3,2013-02-23,Japan,Album
+13,Release 0013,6,7,2013-09-05,Canada,Album
+14,Release 0014,6,1,2004-06-26,Norway,Album
+15,Release 0015,6,2,2016-04-22,Norway,EP
+16,Release 0016,7,4,2014-12-05,Canada,Album
+17,Release 0017,7,3,2023-07-01,Australia,Single
+18,Release 0018,7,4,2020-07-26,France,Album
+19,Release 0019,7,7,2020-12-04,United Kingdom,Single
+20,Release 0020,8,5,2001-08-12,Germany,Album
+21,Release 0021,8,7,1995-11-07,Norway,Single
+22,Release 0022,9,9,2022-06-21,Sweden,EP
+23,Release 0023,10,3,2009-02-09,South Korea,Single
+24,Release 0024,10,7,2010-02-20,Norway,EP
+25,Release 0025,10,9,2019-07-20,United States,Single
+26,Release 0026,11,7,2011-01-23,United Kingdom,EP
+27,Release 0027,11,4,2020-11-24,Norway,Single
+28,Release 0028,12,10,2025-11-11,Norway,EP
+29,Release 0029,13,5,2025-05-17,Nigeria,Single
+30,Release 0030,14,9,2007-12-10,Canada,Album
+31,Release 0031,14,3,2008-11-13,South Korea,EP
+32,Release 0032,14,1,2004-07-18,France,Single
+33,Release 0033,15,6,2008-10-20,Brazil,Single
+34,Release 0034,15,9,2009-11-07,Brazil,EP
+35,Release 0035,16,9,2016-02-10,Nigeria,EP
+36,Release 0036,16,4,2014-06-03,Nigeria,Single
+37,Release 0037,17,1,2025-04-05,United Kingdom,Album
+38,Release 0038,17,2,2020-10-28,Brazil,Single
+39,Release 0039,18,4,2024-08-13,Canada,EP
+40,Release 0040,18,7,2021-02-25,Germany,Album
+41,Release 0041,19,2,1996-09-08,Brazil,Album
+42,Release 0042,19,9,2020-08-22,Japan,EP
+43,Release 0043,19,9,2005-08-20,Sweden,EP
+44,Release 0044,19,8,2009-03-24,Brazil,Single
+45,Release 0045,20,4,2018-09-16,France,Single
+46,Release 0046,20,4,2012-12-10,France,Single
+47,Release 0047,21,3,2022-02-05,Germany,Single
+48,Release 0048,21,4,2025-03-23,United States,Single
+49,Release 0049,21,8,2020-06-18,Sweden,Album
+50,Release 0050,22,10,2021-07-13,Australia,Album
+51,Release 0051,22,8,2022-10-13,United Kingdom,Single
+52,Release 0052,23,7,2019-07-28,Japan,EP
+53,Release 0053,23,10,2018-09-26,Germany,Single
+54,Release 0054,23,8,2002-05-14,United Kingdom,Single
+55,Release 0055,24,7,2016-11-26,Australia,Album
+56,Release 0056,24,10,2021-08-05,Japan,Album
+57,Release 0057,24,10,2024-07-19,Nigeria,Album
+58,Release 0058,25,8,2015-07-05,Canada,Album
+59,Release 0059,26,8,2016-06-07,Norway,Single
+60,Release 0060,26,7,2016-05-25,France,Album
+61,Release 0061,26,9,2019-01-24,United Kingdom,Single
+62,Release 0062,27,1,2015-02-25,United Kingdom,Album
+63,Release 0063,27,3,2001-01-20,Germany,Album
+64,Release 0064,28,4,2016-02-19,Brazil,EP
+65,Release 0065,28,10,2003-06-06,South Korea,EP
+66,Release 0066,28,3,2017-02-25,France,Album
+67,Release 0067,28,10,2013-01-10,Nigeria,Single
+68,Release 0068,29,10,2024-04-03,Australia,EP
+69,Release 0069,29,5,2020-02-23,Nigeria,EP
+70,Release 0070,29,10,2025-02-26,United Kingdom,Single
+71,Release 0071,29,6,2023-07-22,United States,EP
+72,Release 0072,30,8,1995-07-27,United States,Single
+73,Release 0073,30,8,2025-06-21,Australia,Album
+74,Release 0074,30,9,2008-03-24,Nigeria,Single
+75,Release 0075,31,10,2009-07-27,France,Single
+76,Release 0076,31,2,2022-04-27,France,Single
+77,Release 0077,31,10,2002-08-19,Nigeria,Single
+78,Release 0078,31,6,2005-01-16,Canada,Single
+79,Release 0079,32,5,2006-05-11,South Korea,EP
+80,Release 0080,32,1,2023-05-18,Japan,Album
+81,Release 0081,33,8,2006-12-14,Japan,Album
+82,Release 0082,34,8,2024-12-16,United Kingdom,Album
+83,Release 0083,34,4,2021-04-13,France,EP
+84,Release 0084,34,9,2023-06-16,Japan,Single
+85,Release 0085,34,6,2022-12-18,Norway,EP
+86,Release 0086,35,4,2022-05-09,United States,EP
+87,Release 0087,35,9,2021-06-04,Australia,Album
+88,Release 0088,35,8,2021-04-24,France,EP
+89,Release 0089,35,4,2022-02-27,France,Album
+90,Release 0090,36,9,2000-05-01,Canada,Single
+91,Release 0091,36,5,1996-01-18,Australia,Album
+92,Release 0092,36,1,2015-08-04,South Korea,Single
+93,Release 0093,37,3,2015-08-11,United Kingdom,Single
+94,Release 0094,37,2,2015-02-27,Sweden,Single
+95,Release 0095,37,1,2002-10-21,Canada,Album
+96,Release 0096,37,2,2025-10-10,Germany,Album
+97,Release 0097,38,10,2014-10-26,Germany,EP
+98,Release 0098,38,5,2007-08-15,South Korea,Single
+99,Release 0099,38,1,2004-10-20,South Korea,EP
+100,Release 0100,38,4,1998-04-21,France,EP
+101,Release 0101,39,9,2000-04-06,United States,Album
+102,Release 0102,40,10,2019-08-23,Brazil,Single
+103,Release 0103,41,5,2011-05-23,Australia,Single
+104,Release 0104,42,10,2016-04-09,Nigeria,Album
+105,Release 0105,43,3,2013-09-08,France,Album
+106,Release 0106,43,5,2012-01-06,South Korea,EP
+107,Release 0107,43,8,2019-08-04,Australia,Single
+108,Release 0108,43,9,2022-05-17,Brazil,Single
+109,Release 0109,44,6,2022-07-24,South Korea,Single
+110,Release 0110,45,10,2013-04-22,South Korea,Album
+111,Release 0111,46,3,2013-01-25,Brazil,EP
+112,Release 0112,46,3,2015-08-09,South Korea,Single
+113,Release 0113,46,8,2015-08-03,Norway,Single
+114,Release 0114,47,3,2016-11-04,Norway,Single
+115,Release 0115,47,7,2021-05-22,Japan,Album
+116,Release 0116,47,5,2020-02-11,Norway,Album
+117,Release 0117,48,1,2022-09-27,Nigeria,EP
+118,Release 0118,48,4,2009-07-02,Japan,Single
+119,Release 0119,48,8,2014-08-21,United Kingdom,Album
+120,Release 0120,48,5,2003-09-05,Brazil,EP
+121,Release 0121,49,10,1998-01-21,Germany,EP
+122,Release 0122,49,1,2000-05-18,Japan,Single
+123,Release 0123,49,2,1997-04-27,Brazil,Album
+124,Release 0124,49,5,2015-03-16,Japan,EP
+125,Release 0125,50,4,2019-08-16,Brazil,EP
+126,Release 0126,50,10,2015-07-07,Japan,EP
+127,Release 0127,50,7,2015-02-09,Norway,EP
+128,Release 0128,51,5,2025-01-10,South Korea,EP
+129,Release 0129,51,3,2020-08-28,Brazil,EP
+130,Release 0130,51,9,2014-06-11,Japan,Single
+131,Release 0131,52,4,2018-04-23,South Korea,Single
+132,Release 0132,52,6,2015-07-02,Australia,Single
+133,Release 0133,52,3,2020-07-22,Brazil,Album
+134,Release 0134,52,6,2012-09-19,United States,Single
+135,Release 0135,53,3,2011-08-01,Sweden,EP
+136,Release 0136,54,5,1997-08-26,Norway,EP
+137,Release 0137,54,2,2017-07-21,Norway,EP
+138,Release 0138,55,8,2025-06-21,Japan,Album
+139,Release 0139,55,5,2014-02-08,Germany,EP
+140,Release 0140,55,2,1997-07-04,Brazil,Album
+141,Release 0141,55,1,2017-05-01,Norway,Album
+142,Release 0142,56,3,2006-06-14,Germany,EP
+143,Release 0143,56,3,2008-10-22,Canada,Album
+144,Release 0144,56,7,1997-10-28,South Korea,EP
+145,Release 0145,57,4,2010-10-05,Brazil,EP
+146,Release 0146,57,1,2003-08-09,Brazil,Single
+147,Release 0147,58,10,2021-08-12,France,EP
+148,Release 0148,58,8,2024-12-09,France,Album
+149,Release 0149,59,7,2022-02-08,South Korea,Single
+150,Release 0150,59,5,2025-05-23,United Kingdom,EP
+151,Release 0151,59,10,2019-05-01,Nigeria,EP
+152,Release 0152,59,8,2008-10-24,France,Album
+153,Release 0153,60,10,2002-11-07,France,EP
+154,Release 0154,60,3,2019-12-25,Nigeria,Album
+155,Release 0155,60,1,2023-11-21,France,Single
+156,Release 0156,61,3,2024-06-24,United States,Single
+157,Release 0157,62,4,2018-07-06,Canada,EP
+158,Release 0158,62,9,2023-06-17,France,Album
+159,Release 0159,62,5,2003-08-26,Australia,Single
+160,Release 0160,63,4,2009-02-05,Nigeria,EP
+161,Release 0161,64,2,2025-09-12,Sweden,Album
+162,Release 0162,64,8,2003-09-04,Norway,EP
+163,Release 0163,64,10,2018-11-09,Sweden,EP
+164,Release 0164,64,4,2025-06-04,Brazil,Album
+165,Release 0165,65,2,2025-04-21,Nigeria,Single
+166,Release 0166,65,2,2015-11-14,Canada,Album
+167,Release 0167,65,2,2007-05-16,United States,Album
+168,Release 0168,66,9,2010-08-12,Sweden,EP
+169,Release 0169,66,7,2021-12-05,Nigeria,Album
+170,Release 0170,67,1,2014-07-09,Australia,Single
+171,Release 0171,67,4,2001-08-15,Norway,Album
+172,Release 0172,67,6,2016-06-18,United Kingdom,Single
+173,Release 0173,67,8,2003-04-04,United States,EP
+174,Release 0174,68,1,2015-11-20,United Kingdom,Single
+175,Release 0175,68,10,2002-03-26,Germany,Album
+176,Release 0176,69,4,2024-04-27,Norway,Album
+177,Release 0177,69,3,2025-01-09,Canada,EP
+178,Release 0178,70,1,2020-03-04,Canada,Album
+179,Release 0179,70,6,2006-04-19,United Kingdom,Album
+180,Release 0180,70,7,2003-01-05,Japan,Album
+181,Release 0181,71,6,2020-08-25,Japan,EP
+182,Release 0182,72,10,2009-09-08,United Kingdom,EP
+183,Release 0183,73,1,2016-11-01,Brazil,Single
+184,Release 0184,73,8,2015-11-04,Australia,Single
+185,Release 0185,73,10,2004-02-11,Canada,Album
+186,Release 0186,74,10,2023-10-21,Japan,EP
+187,Release 0187,74,9,2023-07-20,France,Single
+188,Release 0188,75,9,2020-12-04,Australia,Album
+189,Release 0189,75,7,2023-08-08,Norway,Single
+190,Release 0190,75,2,2023-07-24,Norway,Single
+191,Release 0191,75,6,2022-11-09,Canada,EP
+192,Release 0192,76,2,2018-02-27,United States,Single
+193,Release 0193,76,6,2018-12-24,Canada,EP
+194,Release 0194,76,9,2017-10-18,Norway,EP
+195,Release 0195,76,7,2018-07-12,Australia,Album
+196,Release 0196,77,2,2022-05-12,South Korea,EP
+197,Release 0197,77,8,2009-03-22,Germany,Album
+198,Release 0198,77,2,2014-09-12,France,EP
+199,Release 0199,78,9,2020-07-28,South Korea,EP
+200,Release 0200,78,1,2016-11-18,South Korea,EP
+201,Release 0201,79,5,1995-03-09,Norway,Single
+202,Release 0202,79,3,1995-03-28,South Korea,EP
+203,Release 0203,79,1,2007-02-05,United States,EP
+204,Release 0204,80,6,2018-07-15,Canada,Single
+205,Release 0205,80,10,2016-12-11,South Korea,Album
+206,Release 0206,81,10,2014-03-25,United Kingdom,EP
+207,Release 0207,82,7,2003-08-22,Brazil,EP
+208,Release 0208,83,9,2008-05-07,United States,Single
+209,Release 0209,83,10,2008-02-10,Brazil,EP
+210,Release 0210,83,4,2016-05-02,Sweden,EP
+211,Release 0211,83,5,1996-01-07,Germany,Album
+212,Release 0212,84,1,2004-06-04,Brazil,EP
+213,Release 0213,84,7,2008-03-05,Japan,EP
+214,Release 0214,84,6,2002-09-18,United States,Single
+215,Release 0215,85,2,2020-01-15,Norway,EP
+216,Release 0216,86,7,2023-12-21,France,Album
+217,Release 0217,86,3,2023-01-11,South Korea,Single
+218,Release 0218,86,2,2022-02-14,Germany,Single
+219,Release 0219,86,7,2023-09-03,France,EP
+220,Release 0220,87,3,2016-06-25,United States,EP
+221,Release 0221,87,4,2012-09-17,Norway,Single
+222,Release 0222,87,3,2013-04-04,France,Album
+223,Release 0223,88,2,2020-03-25,Canada,EP
+224,Release 0224,88,10,2018-08-25,South Korea,Single
+225,Release 0225,89,3,2022-11-11,Brazil,Album
+226,Release 0226,89,5,2010-08-21,France,EP
+227,Release 0227,89,2,1996-06-17,France,Single
+228,Release 0228,90,5,1996-01-12,United States,EP
+229,Release 0229,90,10,2022-02-20,Japan,Single
+230,Release 0230,90,1,2009-10-18,Brazil,EP
+231,Release 0231,90,10,2015-04-11,Brazil,EP
+232,Release 0232,91,6,2017-08-04,Australia,Album
+233,Release 0233,91,1,2025-11-06,Germany,EP
+234,Release 0234,92,10,2016-09-17,Canada,Single
+235,Release 0235,92,7,2013-05-13,Norway,EP
+236,Release 0236,92,6,2021-01-26,United States,Single
+237,Release 0237,92,7,2005-09-22,France,Single
+238,Release 0238,93,3,2023-02-19,Norway,Single
+239,Release 0239,93,2,2024-03-20,France,EP
+240,Release 0240,94,9,2021-03-22,United States,EP
+241,Release 0241,94,1,2022-09-12,Norway,Single
+242,Release 0242,94,8,2018-04-11,Germany,Album
+243,Release 0243,94,5,2018-03-03,United States,EP
+244,Release 0244,95,10,2016-06-25,Canada,EP
+245,Release 0245,96,10,2000-03-06,Canada,EP
+246,Release 0246,96,6,2010-01-14,Nigeria,EP
+247,Release 0247,96,5,2003-08-20,Australia,Single
+248,Release 0248,96,5,2003-09-08,Brazil,Album
+249,Release 0249,97,8,2016-10-15,France,Single
+250,Release 0250,97,3,2011-09-14,Germany,EP
+251,Release 0251,97,8,1999-05-02,Norway,EP
+252,Release 0252,98,2,2025-09-28,France,Album
+253,Release 0253,99,3,2003-08-17,Sweden,Album
+254,Release 0254,99,8,2025-04-27,Norway,Album
+255,Release 0255,100,6,1996-07-17,Germany,Single
+256,Release 0256,100,1,1997-06-08,Norway,Album
+257,Release 0257,100,6,2021-12-21,Canada,Album
+258,Release 0258,100,8,1996-05-27,Australia,Album
+259,Release 0259,101,2,2024-10-01,United Kingdom,Single
+260,Release 0260,101,10,2016-03-18,Japan,Single
+261,Release 0261,101,5,2013-05-08,United States,Album
+262,Release 0262,101,10,2017-07-21,Brazil,Album
+263,Release 0263,102,1,2023-10-18,Nigeria,EP
+264,Release 0264,103,7,2017-03-10,United Kingdom,EP
+265,Release 0265,103,7,2006-04-19,Canada,EP
+266,Release 0266,104,9,2017-06-03,Japan,EP
+267,Release 0267,105,7,2007-08-02,Norway,Single
+268,Release 0268,106,4,2006-02-12,Australia,EP
+269,Release 0269,107,6,2023-10-24,Canada,Album
+270,Release 0270,108,3,2012-06-27,Nigeria,Single
+271,Release 0271,108,3,2017-08-21,Canada,Album
+272,Release 0272,108,5,2017-08-02,Germany,Album
+273,Release 0273,109,9,2021-06-10,Sweden,EP
+274,Release 0274,109,4,2024-05-02,France,Single
+275,Release 0275,110,2,2025-06-09,Norway,Single
+276,Release 0276,111,6,2018-08-13,Canada,Single
+277,Release 0277,111,9,2017-08-12,France,Album
+278,Release 0278,111,7,2018-07-03,South Korea,Album
+279,Release 0279,111,2,2012-05-11,United States,Single
+280,Release 0280,112,7,2004-08-20,Canada,EP
+281,Release 0281,112,1,2009-06-15,Australia,Single
+282,Release 0282,112,1,2014-07-09,United States,EP
+283,Release 0283,113,3,2020-09-26,United Kingdom,Album
+284,Release 0284,113,2,2023-01-05,Germany,EP
+285,Release 0285,113,10,2020-06-13,United Kingdom,EP
+286,Release 0286,113,6,2013-11-15,Norway,Single
+287,Release 0287,114,6,2013-03-17,Sweden,Single
+288,Release 0288,115,3,2015-02-01,Brazil,EP
+289,Release 0289,115,5,2018-09-04,France,EP
+290,Release 0290,115,5,2019-04-20,Australia,Single
+291,Release 0291,116,2,2011-03-28,Brazil,Album
+292,Release 0292,116,6,2022-02-26,Nigeria,Single
+293,Release 0293,117,5,2024-09-10,Canada,EP
+294,Release 0294,118,4,2020-06-17,United States,Album
+295,Release 0295,118,8,2020-03-08,United Kingdom,Single
+296,Release 0296,119,10,2025-09-05,United States,Album
+297,Release 0297,119,8,2022-07-23,Japan,Single
+298,Release 0298,119,3,2024-10-03,Norway,EP
+299,Release 0299,120,9,2009-08-22,Norway,Album
