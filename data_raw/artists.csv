@@ -1,1 +1,121 @@
-
+artist_id,artist_name,country,artist_type,start_year
+1,Artist 001,Nigeria,Solo,1976
+2,Artist 002,Australia,Band,1990
+3,Artist 003,Germany,Solo,2022
+4,Artist 004,United States,Duo,2022
+5,Artist 005,Japan,Solo,2012
+6,Artist 006,Sweden,Solo,1976
+7,Artist 007,United States,Solo,1989
+8,Artist 008,Japan,Duo,1976
+9,Artist 009,Japan,Solo,2020
+10,Artist 010,Nigeria,Duo,2009
+11,Artist 011,Sweden,Solo,2003
+12,Artist 012,South Korea,Band,1975
+13,Artist 013,Canada,Duo,2002
+14,Artist 014,Norway,Band,1984
+15,Artist 015,Germany,Band,1981
+16,Artist 016,United States,Band,1981
+17,Artist 017,Norway,Band,2013
+18,Artist 018,France,Solo,2021
+19,Artist 019,Brazil,Duo,1982
+20,Artist 020,Sweden,Solo,2010
+21,Artist 021,France,Duo,2014
+22,Artist 022,Norway,Duo,1987
+23,Artist 023,Australia,Solo,1977
+24,Artist 024,Nigeria,Solo,1993
+25,Artist 025,United States,Solo,1981
+26,Artist 026,Sweden,Band,2004
+27,Artist 027,Nigeria,Band,1985
+28,Artist 028,Norway,Band,1988
+29,Artist 029,Nigeria,Band,2019
+30,Artist 030,Nigeria,Duo,1979
+31,Artist 031,South Korea,Duo,1985
+32,Artist 032,Japan,Duo,1990
+33,Artist 033,Canada,Band,1999
+34,Artist 034,France,Duo,2019
+35,Artist 035,Japan,Solo,2018
+36,Artist 036,Norway,Solo,1989
+37,Artist 037,United Kingdom,Band,2000
+38,Artist 038,France,Solo,1988
+39,Artist 039,South Korea,Duo,1995
+40,Artist 040,Germany,Duo,2006
+41,Artist 041,Sweden,Duo,2004
+42,Artist 042,Canada,Band,1983
+43,Artist 043,Germany,Duo,2010
+44,Artist 044,Japan,Band,2022
+45,Artist 045,South Korea,Band,2012
+46,Artist 046,Sweden,Band,1989
+47,Artist 047,Canada,Duo,2006
+48,Artist 048,United States,Solo,1982
+49,Artist 049,Canada,Duo,1985
+50,Artist 050,Nigeria,Band,2013
+51,Artist 051,United States,Band,1999
+52,Artist 052,South Korea,Band,2008
+53,Artist 053,France,Duo,1975
+54,Artist 054,Nigeria,Duo,1982
+55,Artist 055,Nigeria,Duo,1992
+56,Artist 056,Nigeria,Band,1982
+57,Artist 057,France,Band,1985
+58,Artist 058,Brazil,Solo,2021
+59,Artist 059,Australia,Band,2007
+60,Artist 060,Canada,Duo,1981
+61,Artist 061,Nigeria,Band,2015
+62,Artist 062,Japan,Duo,1987
+63,Artist 063,Canada,Band,1985
+64,Artist 064,Japan,Duo,1975
+65,Artist 065,South Korea,Band,2006
+66,Artist 066,United Kingdom,Solo,1998
+67,Artist 067,France,Solo,1978
+68,Artist 068,Germany,Duo,1980
+69,Artist 069,United States,Duo,2006
+70,Artist 070,United States,Duo,1983
+71,Artist 071,Canada,Duo,2005
+72,Artist 072,Japan,Solo,1991
+73,Artist 073,Japan,Duo,2002
+74,Artist 074,Germany,Duo,2021
+75,Artist 075,Australia,Solo,2020
+76,Artist 076,France,Band,2017
+77,Artist 077,Nigeria,Band,2003
+78,Artist 078,Japan,Band,1982
+79,Artist 079,Germany,Solo,1979
+80,Artist 080,Norway,Solo,2012
+81,Artist 081,Japan,Solo,2012
+82,Artist 082,Germany,Solo,1979
+83,Artist 083,Australia,Duo,1978
+84,Artist 084,Germany,Solo,1977
+85,Artist 085,Norway,Solo,2007
+86,Artist 086,Germany,Band,2017
+87,Artist 087,Brazil,Solo,2009
+88,Artist 088,Canada,Duo,2011
+89,Artist 089,South Korea,Band,1990
+90,Artist 090,Brazil,Band,1987
+91,Artist 091,United States,Solo,2017
+92,Artist 092,Sweden,Band,2002
+93,Artist 093,Sweden,Band,2021
+94,Artist 094,United Kingdom,Duo,2016
+95,Artist 095,Nigeria,Solo,1978
+96,Artist 096,Sweden,Duo,1996
+97,Artist 097,United States,Solo,1987
+98,Artist 098,Germany,Duo,2003
+99,Artist 099,Canada,Band,1986
+100,Artist 100,France,Band,1990
+101,Artist 101,United States,Band,2010
+102,Artist 102,United States,Solo,2016
+103,Artist 103,Japan,Solo,1980
+104,Artist 104,Germany,Solo,2001
+105,Artist 105,Brazil,Band,1988
+106,Artist 106,Sweden,Solo,1985
+107,Artist 107,Sweden,Solo,1999
+108,Artist 108,France,Band,1993
+109,Artist 109,Sweden,Duo,2021
+110,Artist 110,Japan,Duo,2020
+111,Artist 111,Brazil,Solo,1987
+112,Artist 112,France,Solo,1978
+113,Artist 113,South Korea,Duo,2009
+114,Artist 114,United Kingdom,Duo,1995
+115,Artist 115,United Kingdom,Solo,2012
+116,Artist 116,Brazil,Duo,2008
+117,Artist 117,Canada,Solo,2007
+118,Artist 118,United States,Solo,1979
+119,Artist 119,South Korea,Solo,2018
+120,Artist 120,Germany,Band,1982
