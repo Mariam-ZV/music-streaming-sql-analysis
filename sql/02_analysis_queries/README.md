@@ -73,12 +73,12 @@ Key relationships:
 
 ## 📁 Project Structure
 Music_SQL_Project/
-│
+
 ├── data_raw/
 ├── sql/
 │   ├── 01_create_schema.sql
 │   ├── 02_analysis_queries.sql
-│
+
 
 
 ## 🚀 Next Steps
